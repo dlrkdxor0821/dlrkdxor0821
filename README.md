@@ -5,6 +5,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrkdxor0821)](https://solved.ac/profile/dlrkdxor0821)
 
-
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrkdxor0821)](https://solved.ac/profile/dlrkdxor0821)
-![BOJ](http://mazandi.herokuapp.com/api?handle=dlrkdxor0821&theme=warm)
